@@ -1,0 +1,1 @@
+Ce projet vise à développer un outil pour simplifier la configuration d'équipements réseau. Grâce à une interface graphique, les utilisateurs pourront saisir les paramètres souhaités pour leur configuration, et l'outil générera automatiquement les commandes correspondantes, prêtes à être utilisées sur les périphériques.
